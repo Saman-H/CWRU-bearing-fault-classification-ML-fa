@@ -1,3 +1,15 @@
+> نسخه‌ی فارسی: این ریپو فورکی از
+> [LGDiMaggio/CWRU-bearing-fault-classification-ML](https://github.com/LGDiMaggio/CWRU-bearing-fault-classification-ML)
+> است. کد و ایده‌ی اصلی متعلق به نویسنده‌ی اصلی است.
+> سهم من: ترجمه‌ی فارسی نوتبوک (notebooks/cwru_fault_diagnosis_fa.ipynb)
+> و ارائه‌ی آن در دانشگاه (کارشناسی).
+
+---
+
+
+
+
+
 # CWRU-bearing-fault-classification-ML
 A machine learning project for classifying bearing faults using the CWRU dataset, with models built using Python and various ML techniques.
 
